@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @laibaa1209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Laiba Binte Zia
+## 23K - 0006
+### I did my matric from ST Joseph Convent School and FSC from PECHS
+#### In terms of my initial the second one would be for books 
 
-<!---
-laibaa1209/laibaa1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
