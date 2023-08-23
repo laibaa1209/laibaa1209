@@ -1,6 +1,6 @@
 ##### Question 01:
 
-(![image](https://github.com/laibaa1209/pfFall23/assets/142867994/a8cc8e25-72fe-4fa5-bd63-363af418f10f)(![image](https://github.com/laibaa1209/pfFall23/assets/142867994/21c7823e-45bd-43a7-af8a-249eeaaf76b5)(![image](https://github.com/laibaa1209/pfFall23/assets/142867994/913b2787-7d35-4c68-a4b7-d8423b5b5e0f))))]
+![image](https://github.com/laibaa1209/pfFall23/assets/142867994/a8cc8e25-72fe-4fa5-bd63-363af418f10f)(![image](https://github.com/laibaa1209/pfFall23/assets/142867994/21c7823e-45bd-43a7-af8a-249eeaaf76b5)(![image](https://github.com/laibaa1209/pfFall23/assets/142867994/913b2787-7d35-4c68-a4b7-d8423b5b5e0f))))]
 
 #### Question 02:
 
