@@ -16,7 +16,8 @@
 
 #### Question 05:
 
-![pfFall23Q5()]
+![image](https://github.com/laibaa1209/pfFall23/assets/142867994/f2ac5019-f840-41d6-950e-fa8f0a2a9ea0)
+
 
 #### Question 06:
 
