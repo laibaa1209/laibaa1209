@@ -1,3 +1,5 @@
+# FLOWCHARTS
+
 # Question 01:
 ## Write a C program to check whether a number is multiple of 3 or not. If it is then print “This number is multiple of 3”, otherwise print “This number is not multiple of 3”.
 ![image](https://github.com/laibaa1209/pfFall23/assets/142867994/6e571237-74cc-4ae8-8eb9-e4f1301aeef6)
