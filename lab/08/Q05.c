@@ -9,7 +9,7 @@ bool decideCarUsuage(int numericpart, int day)
 		{
 			return 1;
 		}
-	} else if(numericpart%2!=0)
+	} else if(day%2!=0)
 		{
 			return 0;
 		}
