@@ -3,14 +3,16 @@
 
 int main(){
 	
-	char str[100];
+	char find, str[100];
 	int i,count=0;
-	puts("Enter the text: \n");
+	puts("Enter the text: ");
 	gets(str);
+	printf("\n\nenter the character you want to find: ");
+	scanf(" %c",&find);
 	for(i=0;i<strlen(str);i++)
 	{
 	
-		if(str[i]=='a')
+		if(str[i]==find)
 		{
 		  count++;	
 		}
